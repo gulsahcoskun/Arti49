@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Arti49</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="refresh">Yenile</string>
+
+    <string name="nav_item_anasayfa">Ana Sayfa</string>
+    <string name="nav_item_sondakika">Son Dakika</string>
+    <string name="nav_item_gundem">Gündem</string>
+    <string name="nav_item_turkiye">Türkiye</string>
+    <string name="nav_item_dunya">Dünya</string>
+    <string name="nav_item_siyaset">Siyaset</string>
+    <string name="nav_item_ekonomi">Ekonomi</string>
+    <string name="nav_item_kultur">Kültür</string>
+    <string name="nav_item_spor">Spor</string>
+    <string name="nav_item_yasam">Yasam</string>
+    <string name="nav_item_roportaj">Röportaj</string>
+    <string name="nav_item_almanya">Almanya</string>
+    <string name="nav_item_fransa">Fransa</string>
+    <string name="nav_item_belcika">Belcika</string>
+    <string name="nav_item_isvicre">İsviçre</string>
+    <string name="nav_item_hollanda">Hollanda</string>
+    <string name="nav_item_avusturya">Avusturya</string>
+    <string name="nav_item_deutsch">Deutsch</string>
+    <string name="nav_item_english">English</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_anasayfa</item>
+        <item>@string/nav_item_sondakika</item>
+        <item>@string/nav_item_gundem</item>
+        <item>@string/nav_item_turkiye</item>
+        <item>@string/nav_item_dunya</item>
+        <item>@string/nav_item_siyaset</item>
+        <item>@string/nav_item_ekonomi</item>
+        <item>@string/nav_item_kultur</item>
+        <item>@string/nav_item_spor</item>
+        <item>@string/nav_item_yasam</item>
+        <item>@string/nav_item_roportaj</item>
+        <item>@string/nav_item_almanya</item>
+        <item>@string/nav_item_fransa</item>
+        <item>@string/nav_item_belcika</item>
+        <item>@string/nav_item_isvicre</item>
+        <item>@string/nav_item_hollanda</item>
+        <item>@string/nav_item_avusturya</item>
+        <item>@string/nav_item_deutsch</item>
+        <item>@string/nav_item_english</item>
+    </string-array>
+
+
+    <string name="title_anasayfa">Ana Sayfa</string>
+    <string name="title_sondakika">Son Dakika</string>
+    <string name="title_gundem">Gündem</string>
+    <string name="title_turkiye">Türkiye</string>
+    <string name="title_dunya">Dünya</string>
+    <string name="title_siyaset">Siyaset</string>
+    <string name="title_ekonomi">Ekonomi</string>
+    <string name="title_kultur">Kültür</string>
+    <string name="title_spor">Spor</string>
+    <string name="title_yasam">Yasam</string>
+    <string name="title_roportaj">Röportaj</string>
+    <string name="title_almanya">Almanya</string>
+    <string name="title_fransa">Fransa</string>
+    <string name="title_belcika">Belcika</string>
+    <string name="title_isvicre">İsviçre</string>
+    <string name="title_hollanda">Hollanda</string>
+    <string name="title_avusturya">Avusturya</string>
+    <string name="title_deutsch">Deutsch</string>
+    <string name="title_english">English</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
